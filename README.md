@@ -3,9 +3,11 @@
 Fixes the hidden golden plate armor's visibility when worn by an entity or the player.
 
 The armor can be aquired by defeating an [Ylside MX](<https://wiki.arx-libertatis.org/Ylside_(MX)>)
-or by using the mega-kaom cheat: casting `MEGA + KAOM` 10 times (can be done without the runes too).
+or by using the mega-kaom cheat: casting `MEGA + KAOM` 10 times (can also be done without having the runes).
 
-The armor requires 18 strength (the chest piece only) and it's not identifiable.
+- None of the armor pieces are identifiable.
+- The leggings and helmet require 12 strength.
+- The chest piece requires 18 strength.
 
 ![screenshot](screenshot.jpg?raw=true "screenshot")
 
