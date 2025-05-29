@@ -1,11 +1,11 @@
 # Golden Armor fix
 
-Makes the golden armor visible in the questbook
+Fixes the hidden golden plate armor's visibility when worn by an entity or the player.
 
 The armor can be aquired by defeating an [Ylside MX](<https://wiki.arx-libertatis.org/Ylside_(MX)>)
-or by using the `MEGA + KAOM × 20` cheat.
+or by using the mega-kaom cheat: casting `MEGA + KAOM` 10 times (can be done without the runes too).
 
-The armor requires 18 strength and it's not identifiable.
+The armor requires 18 strength (the chest piece only) and it's not identifiable.
 
 ![screenshot](screenshot.jpg?raw=true "screenshot")
 

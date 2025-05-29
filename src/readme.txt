@@ -2,7 +2,7 @@
  Golden Armor fix
 ------------------
 
-Makes the golden armor visible in the questbook
+Fixes the hidden golden plate armor's visibility when worn by an entity or the player.
 
 --------------
  Installation
